@@ -188,10 +188,10 @@
       }
     },
     "Logout": {
-      "name": "Connectez - Out",
+      "name": "SE DECONNECTER",
       "list": {
         "line1": "Cliquez sur Déconnexion en haut à droite.",
-        "line2": "Cliquez sur OK pour vous déconnecter de l'application de pré-inscription."
+        "line2": "Cliquez sur OK pour vous déconnecter de l'application de pré-enregistrement."
       },
       "line": "Connectez-vous avec le même numéro de téléphone portable ou la même adresse de messagerie pour accéder aux demandes enregistrées."
     }
@@ -613,7 +613,7 @@
       "prefetched": "La demande a été préchargée dans le centre d'enregistrement"
     },
     "deleteIcon": "Vous pouvez soit rejeter la demande entière, soit annuler le rendez-vous et enregistrer les détails.",
-    "book/modify_appointment": "Vous devez cocher la case en regard de l'identifiant de pré-inscription pour qu'un ou plusieurs demandeurs puissent prendre un rendez-vous",
+    "book/modify_appointment": "Vous devez cocher la case en regard de l'identifiant de pré-enrégistrement pour qu'un ou plusieurs demandeurs puissent prendre un rendez-vous",
     "bookAppointment": "Commencez par sélectionner le créneau horaire préféré, puis sélectionnez le demandeur applicable pour le créneau sélectionné. ",
     "send_email/sms": "Vous pouvez ajouter le destinataire supplémentaire pour recevoir la ou les notifications.",
     "modify_at_DemoPreview": "Cliquez sur modifier pour corriger les détails biographiques",
@@ -692,10 +692,10 @@
     "PRE-REG-OTP-407": "La génération du jeton a échoué",
     "PRE-REG-OTP-408": "OTP a déjà été généré et envoyé à votre adresse e-mail / numéro de téléphone. Si vous voulez un nouvel OTP, veuillez réessayer après un certain temps.",
     "PRE-REG-OTP-409": "Tentative de validation OTP dépassée, veuillez régénérer OTP et réessayer après un certain temps",
-    "PRG_PAM_APP_001": "Impossible de créer la pré-inscription avec les données biographiques fournies",
-    "PRG_PAM_APP_002": "Impossible d'accéder à la table de pré-inscription",
+    "PRG_PAM_APP_001": "Impossible de créer la pré-enenrégistrementre avec les données biographiques fournies",
+    "PRG_PAM_APP_002": "Impossible d'accéder à la table de pré-enrégistrement",
     "PRG_PAM_APP_003": "l'opération de suppression n'est pas autorisée",
-    "PRG_PAM_APP_004": "Impossible de supprimer les données de pré-inscription",
+    "PRG_PAM_APP_004": "Impossible de supprimer les données de pré-enrégistrement",
     "PRG_PAM_APP_005": "Aucune donnée trouvée pour l'identifiant de pré-enrégistrement demandé, aucun enregistrement trouvé pour la plage de dates demandée",
     "PRG_PAM_APP_006": "le code d'état n'est pas valide ",
     "PRG_PAM_APP_007": "l'analyse json a échoué, la validation json a échoué, exception de requête json Http, exception de traitement de validation json, exception json IO, exception json schema IO",
